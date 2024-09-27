@@ -1,43 +1,40 @@
- This is DevEco - the best Devloper Ecosystem you will find!
+ ## This is DevEco - the best Devloper Ecosystem you will find!
 
- We are a welcoming and inclusive community for all developers to collaborate with other developers with like interestes and find out what others are working on. 
+ ## We are a welcoming and inclusive community for all developers to collaborate with other developers with like interestes and find out what others are working on. 
 
- Feel free to jump into the discussions!
+ ## Feel free to jump into the discussions!
 
-  ## There are several sections here:
+  ### There are several sections here:
 
-   ### README.md:
+   1. README.md:
 
-   ### SUPPORT:
+   2. SUPPORT:
 
-   ### FLARE:
+   3. FLARE:
 
-   ### VOICE HANGOUTS:
+   4. VOICE HANGOUTS:
 
-   ### HOME:
+   5. HOME:
 
-   ### DEVELOPERS ANONYMOUS:
+   6. DEVELOPERS ANONYMOUS:
 
-   ### DEVELOPER:
+   7. DEVELOPER:
 
-   ### HELLO MIAMI:
+   8. HELLO MIAMI:
 
-   ### SIG:
+   9. SIG:
 
-   ### LOOKING FOR:
+   10. LOOKING FOR:
 
    #### Here you will find channels for submitting requests for help such as if you are looking for hardware, sevices, mentors, teams to join, and other resources you might need.
 
-   ##### looking-for-hardware
+   - #looking-for-hardware
+   - #looking-for-team
+   - #looking-for-mentor
+   - #looking-for-resource
 
-   ##### looking-for-team
+   11. FORUMS:
 
-   ##### looking-for-mentor
-
-   ##### looking-for-resource
-
-### FORUMS:
-
-### GAMIFY AND EARN:
+   12. GAMIFY AND EARN:
 
 
