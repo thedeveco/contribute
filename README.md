@@ -6,25 +6,25 @@ Feel free to jump into the discussions!
 
 There are several sections here:
 
-#README.md:
+##README.md:
 
-#SUPPORT:
+##SUPPORT:
 
-#FLARE:
+##FLARE:
 
-#VOICE HANGOUTS:
+##VOICE HANGOUTS:
 
-#HOME:
+##HOME:
 
-#DEVELOPERS ANONYMOUS:
+##DEVELOPERS ANONYMOUS:
 
-#DEVELOPER:
+##DEVELOPER:
 
-#HELLO MIAMI:
+##HELLO MIAMI:
 
-#SIG:
+##SIG:
 
-#LOOKING FOR:
+##LOOKING FOR:
     ##Here you will find channels for submitting requests for help such as if you are looking for hardware, sevices, mentors, teams to join, and other resources you might need.
 
         ###looking-for-hardware
@@ -32,8 +32,8 @@ There are several sections here:
         ###looking-for-mentor
         ###looking-for-resource
 
-#FORUMS:
+##FORUMS:
 
-#GAMIFY AND EARN:
+##GAMIFY AND EARN:
 
 
