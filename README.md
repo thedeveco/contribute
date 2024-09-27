@@ -25,12 +25,12 @@ There are several sections here:
 ## SIG:
 
 ## LOOKING FOR:
-    ##Here you will find channels for submitting requests for help such as if you are looking for hardware, sevices, mentors, teams to join, and other resources you might need.
+    ## Here you will find channels for submitting requests for help such as if you are looking for hardware, sevices, mentors, teams to join, and other resources you might need.
 
-        ###looking-for-hardware
-        ###looking-for-team
-        ###looking-for-mentor
-        ###looking-for-resource
+        ### looking-for-hardware
+        ### looking-for-team
+        ### looking-for-mentor
+        ### looking-for-resource
 
 ## FORUMS:
 
