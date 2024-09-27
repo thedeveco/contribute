@@ -1,4 +1,4 @@
-This is DevEco - the best Devloper Ecosystem you can
+This is DevEco - the best Devloper Ecosystem you will find!
 
 We are a welcoming and inclusive community for all developers to collaborate with other developers with like interestes and find out what others are working on. 
 
