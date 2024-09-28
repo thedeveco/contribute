@@ -28,7 +28,21 @@
 
  #### We encourage all members to check out each channel here and respond according to your personal interests.
 
+  - #location
+
+  - #notifications
+
+  - #limited-edition
+
+  - #sig
+
+  - #i-am
+
  4. VOICE HANGOUTS:
+
+  - @Gaming
+
+  - @Developer Cave
 
  5. HOME:
 
@@ -45,6 +59,14 @@
   - #off-topic
 
  #### Sometimes, we want to chat about stuff that is not necessarily a developer topic but it is still important to us. That is what we can do right here!
+
+  - #memes
+
+  - #promote-yourself
+
+  - #commands-bot
+
+  - #giveaways
 
  6. DEVELOPERS ANONYMOUS:
 
