@@ -164,4 +164,4 @@
 
   - #commands-econ
 
-  - #accoladed
+  - #accolades
