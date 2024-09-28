@@ -52,7 +52,7 @@
 
   - #chat
 
- #### This is where everything starts! We meet up with other members and find out what is new and exciting. Feel free to exchange information with others and start your own chat topics. If a single topic generates a lot of traffic on a regular basis, that topic might be split off into is own topic-specific channel. If you want to discuss things that are not necessarily developer related, try the #off-topic channel.
+ #### This is where everything starts! We meet up with other members and find out what is new and exciting. Feel free to exchange information with others and start your own chat topics. If a single topic generates a lot of traffic on a regular basis, that topic might be split off into is own topic-specific channel. If you want to discuss things that are not necessarily developer related, try the #off-topic channel. This channel is for discussing developer topics that DO NOT already have a channel. Smaller communities and topics that are still developer related.
 
   - #introductions
 
