@@ -22,6 +22,8 @@
 
  - #open-a-ticket
 
+ - help-faq (forum)
+
  #### You can open a support ticket here for items you would like to have checked out. Requests for new channels go here too.
 
  3. FLARE:
