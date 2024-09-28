@@ -1,10 +1,10 @@
  ### This is DevEco - the best Devloper Ecosystem you will find!
 
- ### We are a welcoming and inclusive community for all developers to collaborate with other developers with like interestes and find out what others are working on. 
+ ### We are a welcoming and inclusive community for all developers! You can collaborate with other developers and find out find out what they are working on. We are a varied community and have people with many different interests.
 
  ### Feel free to jump into the discussions!
 
- ### There are several sections here:
+ ### There are several channel sections here:
 
    1. README.md:
 
