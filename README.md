@@ -15,6 +15,8 @@
    4. VOICE HANGOUTS:
 
    5. HOME:
+
+     ### Think of this section as the front door to the DevEco Community. This is a great place to start reading and learning what we are all about.
    
    - #chat
 
