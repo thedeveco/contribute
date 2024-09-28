@@ -26,7 +26,9 @@
 
    - #off-topic
 
-   6. DEVELOPERS ANONYMOUS:
+     ### Sometimes, we want to chat about stuff that is not necessarily a developer topic but it is still important to us. That is what we can do right here!
+
+   6. DEVELOPERS ANONY MOUS:
 
    7. DEVELOPER:
 
