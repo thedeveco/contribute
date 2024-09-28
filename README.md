@@ -16,6 +16,10 @@
 
    5. HOME:
 
+    ### Think of this as the front door of the Developer's Ecosystem. Start reading chats and interacting with other menbers here. You can get a good feel for the Community here by reading before you make your first post.
+
+    - #chat This is where everything starts! We meet up with other members and find out what is new and exciting. Feel free to exchange information with others and start your own chat topics. If a single topic generates a lot of traffic on a regular basis, that topic might be split off into is own topic-specific channel. If you want to discuss things that are not necessarily developer related, try the #off-topic channel.
+
    6. DEVELOPERS ANONYMOUS:
 
    7. DEVELOPER:
