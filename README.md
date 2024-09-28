@@ -20,7 +20,7 @@
    
    - #chat
 
-     ### Intended for general chat. All topics relevant to this server are fair game and allowed to be discussed in this channel. If a discussion transitions to a specific topic, members or mobs might suggest moving that discussion to a topic-specific channel.
+     ### Intended for general chat. All topics relevant to this server are fair game and allowed to be discussed here. If a particular topic of discussion creates a lot of traffic on a regular basis, members or mobs might suggest moving that discussion to a topic-specific channel.
 
    - #introductions
 
