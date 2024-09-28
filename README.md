@@ -62,6 +62,8 @@
 
  #### Sometimes, we want to chat about stuff that is not necessarily a developer topic but it is still important to us. That is what we can do right here! This channel is for "personal" topics. If you want to talk about something that IS NOT developer related, it should be done at the water cooler. Examples of ⁠off-topic discussions include "today is my birthday!" and/or "I had a baby!" and/or "I don't like the color blue" and/or ... I think you all get the point.
 
+ #### This is not to say that "watercooler" talk can not happen in any other channel, that is totally fine... But, if you are going to have a full blown discussion about something that is on a more personal level, take it to the watercooler.
+
   - #memes
 
   - #promote-yourself
