@@ -70,21 +70,96 @@
 
  6. DEVELOPERS ANONYMOUS:
 
+  - agenda (forum)
+
+  - faq-devanon (forum)
+
+  - devanon-discussion
+
+  - highlights
+
+  - devAnon (Voice)
+
+  - devAnon waiting room (Voice)
+
  7. DEVELOPER:
+
+  - #-frontend-dev
+
+  - #-backend-dev
+
+  - #-devops
+
+  - #-cloud-server
+
+  - #-ml-al
+
+  - #-game-dev
+
+  - #-mobile-dev
+
+  - #-hardware
+
+  - #-autonomous
+
+  - #-blockchain
+
+  - #-open-source
+
+  - #-retro
+
+  - #-robotics
+
+  - #-fpga
+
+  - #-diy
 
  8. HELLO MIAMI:
 
+  - #hello-miami
+
  9. SIG:
+
+  - #arm
+
+  - #raspberrypi
+
+  - #solidrun
+
+  - #windows-on-arm
+
+  - #tinkerdevs
+
+  - #risc-v
+
+  - #hamradio
 
  10. LOOKING FOR:
 
   #### Here you will find channels for submitting requests for help such as if you are looking for hardware, sevices, mentors, teams to join, and other resources you might need.
 
   - #looking-for-hardware
+
   - #looking-for-team
+
   - #looking-for-mentor
+
   - #looking-for-resource
 
  11. FORUMS:
 
+  - @developer-support (forum)
+
+  - @show-and-tell (forum)
+
  12. GAMIFY AND EARN:
+
+  - #about
+
+  - #shop
+
+  - #claim-referrakl
+
+  - #commands-econ
+
+  - #accoladed
