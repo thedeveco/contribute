@@ -162,7 +162,7 @@
 
   - #shop
 
-  - #claim-referrakl
+  - #claim-referral
 
   - #commands-econ
 

@@ -1,7 +1,15 @@
 
-Basic guidlines for contributing to our git repos
+These are the DevEco guidlines for contributing to our git repos
 
 1. Fork the repo you want to contribute to
+ - Click the [Fork] button on the repo you want to fork
+ - Enter a name for your fork of this repo
+ - Click the [Create Fork] button to create your fork
+ - You will be taken to your new fork.
+ - Clone your forked repo
+ - cd to the directory of your forked repo
+ - Set a remote for your forked repo
+   ##### Do the command "git remote add <nick> <url>" where <nick> is an identifier for this remote and <url> is the master URL of the repo you forked
 
 2. Download your fork of the repo to your computer
 
